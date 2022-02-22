@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham20002&label=Profile%20views&color=0e75b6&style=flat" alt="shubham20002" /> </p>
-<img align="right" alt="coding" width="400" src="https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80">
 
 - 🌱 I’m currently learning **Express,React**
 
@@ -10,6 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-patil-7b4836177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-patil-7b4836177" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/invites/contact/?i=1vkyq9sdncgqd&utm_content=3d49omc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=1vkyq9sdncgqd&utm_content=3d49omc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,4 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham20002&show_icons=true&locale=en&layout=compact" alt="shubham20002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham20002&show_icons=true&locale=en" alt="shubham20002" /></p>
-
