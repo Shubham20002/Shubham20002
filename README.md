@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-patil-7b4836177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-patil-7b4836177" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/invites/contact/?i=1vkyq9sdncgqd&utm_content=3d49omc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=1vkyq9sdncgqd&utm_content=3d49omc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham patil" height="30" width="40" /></a>
+<a href="https://instagram.com/shubhampatil23march" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhampatil23march" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
