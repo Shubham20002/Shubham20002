@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
-- 🌱 I’m currently learning **Express,React**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **shubham992284@gmail.com**
 
