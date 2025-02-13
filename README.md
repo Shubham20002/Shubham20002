@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
-- 🌱 I’m interested in JavaScript, React.js, Next.js, Vuejs, React Native and Nextjs**
+- 🌱 I’m interested in JavaScript, React.js, Next.js, Vuejs, React Native **
 
 - 📫 How to reach me **shubham992284@gmail.com**
 
